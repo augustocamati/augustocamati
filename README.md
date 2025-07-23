@@ -1,6 +1,16 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! Eu sou o Augusto Camati
+ </h2>
+<p align="center">Sou um desenvolvedor apaixonado por tecnologia, focado em criar soluções modernas e funcionais para web</p>
+<h3>🙋 Sobre mim</h3>
+<ul>
+  <li>🔭 Entusiasta de Engenharia de Software</li>
+  <li>👯 Colaborando em projetos Open Source</li>
+  <li>💬 Me pergunte sobre JavaScript, TypeScript, React e Node.js</li>
+  <li>🎮 Gosto de cultura geek: tecnologia, animes, filmes e games</li>
+</ul>
 
 ###
+<h3>📈 GitHub Stats</h3
 
 <br clear="both">
 
@@ -11,7 +21,8 @@
 
 ###
 
-<p align="left">Frontend Stack</p>
+<h3>💻 Frontend Stack</h3>
+
 
 ###
 
@@ -27,11 +38,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
 </div>
 
 ###
 
-<p align="left">Backend Stack</p>
+<h3>🖥 Backend Stack</h3>
+
 
 ###
 
@@ -53,17 +67,20 @@
   <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
 </div>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  ##
+ 
+<div> 
+ 
+  <a href="https://facebook.com/augustocesarcamati" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/augustocesarcamati" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:augustocamati21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/augusto-camati-436765204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ <!--- ![Snake animation](https://github.com/augustocamati/augustocamati/blob/output/github-contribution-grid-snake.svg) --->
+ 
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/augustocamati/augustocamati/output/snake.svg" alt="Snake animation" />
 
-###
